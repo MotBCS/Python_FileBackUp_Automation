@@ -7,7 +7,14 @@ This is a short Python script to automate the process of backing up folders to a
 - Prevents duplicated backups by checking if the backup already exists
 - Simple and lightweight, using Python's built-in libraries
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0342fbb37d1446b78fd3d19014171f26?sid=66393d8a-9055-45e7-86ae-66f9e27ac5ca" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+<div>
+    <a href="https://www.loom.com/share/0342fbb37d1446b78fd3d19014171f26">
+      <p>MotBCS/Python_FileBackUp_Automation: File backup automation in Python - 6 March 2025 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/0342fbb37d1446b78fd3d19014171f26">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/0342fbb37d1446b78fd3d19014171f26-cc1d939299971b93-full-play.gif">
+    </a>
+  </div>
 
 
 # Requirements
