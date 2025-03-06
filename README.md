@@ -7,6 +7,8 @@ A short python script to automate the process of backing up folders to specific 
 - Prevents duplicated backups by checking if the backup already exists
 - Simple and lightweight, using Python's built in libraries
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0;"><iframe src="https://www.loom.com/embed/0342fbb37d1446b78fd3d19014171f26?sid=67e6d53f-a212-46d0-9128-8905e175c1ba" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
+
 # Requirements
 - Python 3.x
 - 'schedule' module (install with pip install schedule)
